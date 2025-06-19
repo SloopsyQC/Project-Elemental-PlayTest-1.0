@@ -32,6 +32,6 @@ I reccomend playing with music since the game has NO SOUND to date.
 Any bugs you find can be posted on the google forum.
 Thank you again for playing and taking the time to go through and review the game.
 
-[Google Forum]([https://sloopsyqc.itch.io/project-elemental-demo-10](https://docs.google.com/forms/d/e/1FAIpQLSd_YXB0vQXsigahAXGYsPK2tCYgkMGWN6lPT9xK4T-7x6A3eA/viewform?usp=dialog))
+[Google Forum](https://docs.google.com/forms/d/e/1FAIpQLSd_YXB0vQXsigahAXGYsPK2tCYgkMGWN6lPT9xK4T-7x6A3eA/viewform?usp=dialog)
 
 Have fun.
